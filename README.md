@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm passionate about building AI/ML systems and Mechanical
 - **2+ years** R&D Engineer in EV development and mechanical systems
 - **3D Scanning:** Precision digitalization at ADNOC (international client)
 - **CAD Design:** SolidWorks, UG NX, AutoCAD
-- **Robotics:** ROS2, Gazebo, SLAM, Motor Control
 
 ## 🛠️ Technical Skills
 
@@ -21,16 +20,13 @@ Welcome to my GitHub! I'm passionate about building AI/ML systems and Mechanical
 - SolidWorks | UG NX | AutoCAD | Geomagic | ANSYS FEA
 
 **EV Systems**
-- BLDC Motor Integration | BMS Design | VCU Development | Battery Systems
+- BLDC Motor Integration | BMS | VCU | Battery Systems
 
 **3D Scanning**
 - Zeiss GOM | Reverse Engineering | Digital Twin Creation
 
 **Programming**
 - Python | C/C++ | MATLAB | LabVIEW
-
-**Robotics**
-- ROS2 | Gazebo | SLAM | Motor Control | Embedded Systems
 
 **Learning**
 - Python | Machine Learning | Computer Vision | AI 
@@ -60,8 +56,10 @@ Learning projects in Python, ML, and autonomous systems. Building intelligent ro
 - **Location:** Open to relocation | Remote opportunities
 
 ## 📚 Education
-- **B.Tech** - Robotics & Automation (VTU, Dec 2024) - CGPA: 8.9
-- **Diploma** - Automobile Engineering - CGPA: 7.1
+- **B.Tech** - Robotics & Automation (VTU, Dec 2024) - CGPA: 8.9 <br>
+  Visvesvaraya Technological University (VTU)
+- **Diploma** - Automobile Engineering - CGPA: 7.1 <br>
+  Department of Technical Education (DTE)
 
 ## 🔗 Connect With Me
 - **Portfolio:** [ganesh-amrut.github.io](https://ganesh-amrut.github.io)
@@ -75,4 +73,4 @@ Learning projects in Python, ML, and autonomous systems. Building intelligent ro
 
 **Always learning. Always innovating. Always improving.** 🚀
 
-*Open to exciting opportunities in robotics, EV development, and AI integration!*
+*Open to exciting opportunities in robotics, Research & development, and AI integration!*
